@@ -47,12 +47,12 @@ function App() {
       <AppNavBar />
       <div className="main-container">
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/task-1" element={<Task1 />} />
-          <Route path="/task-2" element={<Task2 />} />
-          <Route path="/task-3" element={<Task3 />} />
-          <Route path="/task-4" element={<Task4 />} />
-          <Route path="/task-5" element={<Task5 />} />
+          <Route path="/tech-exam-1/" element={<Home />} />
+          <Route path="/tech-exam-1/task-1" element={<Task1 />} />
+          <Route path="/tech-exam-1/task-2" element={<Task2 />} />
+          <Route path="/tech-exam-1/task-3" element={<Task3 />} />
+          <Route path="/tech-exam-1/task-4" element={<Task4 />} />
+          <Route path="/tech-exam-1/task-5" element={<Task5 />} />
         </Routes>
       </div>
     </AppContext.Provider>
