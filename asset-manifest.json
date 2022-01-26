@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tech-exam-1/static/css/main.2d8598af.css",
+    "main.js": "/tech-exam-1/static/js/main.1ffc5b55.js",
+    "static/media/sum.jpg": "/tech-exam-1/static/media/sum.f25b27d0e2df8f48dd29.jpg",
+    "static/media/colors.png": "/tech-exam-1/static/media/colors.d0c613a705b91630d90a.png",
+    "static/media/fight.jpeg": "/tech-exam-1/static/media/fight.a8f3ba33279dff27c35b.jpeg",
+    "static/media/bem.jpg": "/tech-exam-1/static/media/bem.58f7b1c3656fcbcaf2d3.jpg",
+    "index.html": "/tech-exam-1/index.html",
+    "main.2d8598af.css.map": "/tech-exam-1/static/css/main.2d8598af.css.map",
+    "main.1ffc5b55.js.map": "/tech-exam-1/static/js/main.1ffc5b55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d8598af.css",
+    "static/js/main.1ffc5b55.js"
+  ]
+}
